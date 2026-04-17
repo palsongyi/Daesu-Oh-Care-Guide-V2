@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Oh Daesu Care Guide
 
-# Run and deploy your AI Studio app
+Oh Daesu is my cat. aka Daesu  
+He currently lives in Busan. 8-year-old(sooooosadddd why 시간 so fast?!)  
+His name comes from the movie Oldboy directed by Park Chan-wook...  
+(오대수는요 말이 너무 많아요 yeah…the guy never shuts up)
+  
+Favorite snacks: dried pollock treats, and any new snacks  
+Favorite toys: a talking parrot (discontinued, impossible to find now), a fluffy doll from Daiso bought 6 years ago  
+  
+Special skills: a genius cat who can sit, wait, and give paw  
 
-This contains everything you need to run your app locally.
+He absolutely loves people.  
+If Daesu doesn’t like you?  
+That says more about you than him;  
+  
+## Built with 
 
-View your app in AI Studio: https://ai.studio/apps/8448a7f9-765a-4db5-b4bd-66280d554470
+- React  
+- TypeScript  
+- Vite  
+- Tailwind CSS  
+- Gemini API (@google/genai)
 
-## Run Locally
+## Development  
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Google AI Studio
